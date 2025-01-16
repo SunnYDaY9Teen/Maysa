@@ -37,17 +37,17 @@ Welcome to ${botName}!
 
 Your ultimate music companion on Discord. Here are the available commands:
 
-[ /play    ] - Start playing the songs.
-[ /pause   ] - Pause the current song.
-[ /resume  ] - Resume the current song.
-[ /lyrics  ] - Displays the lyrics of a song.
-[ /skip    ] - Skip the current song.
-[ /stop    ] - Destroys the music player.
-[ /np      ] - Shows now playing song.
-[ /volume  ] - Sets the volume of the player.
-[ /ping    ] - Check bot latency.
-[ /support ] - Shows support server info.
-[ /help    ] - Display this help menu.
+[ /play    ] - เริ่มเล่นเพลง.
+[ /pause   ] - หยุดเพลงปัจจุบันชั่วคราว.
+[ /resume  ] - เล่นเพลงปัจจุบันต่อ.
+[ /lyrics  ] - แสดงเนื้อเพลง.
+[ /skip    ] - ข้ามเพลงปัจจุบัน.
+[ /stop    ] - หยุดเล่นเพลง.
+[ /np      ] - รายการที่กำลังเล่นเพลงอยู่.
+[ /volume  ] - ตั้งค่าระดับเสียง.
+[ /ping    ] - ตรวจสอบความหน่วงของบอท.
+[ /support ] - แสดงข้อมูลเซิร์ฟเวอร์สนับสนุน.
+[ /help    ] - แสดงเมนูช่วยเหลือนี้.
 \`\`\`
       `;
 
